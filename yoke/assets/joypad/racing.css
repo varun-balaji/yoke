@@ -15,7 +15,7 @@
         ".   t1  t1  t1  t1  .   dp  dp  dp  dp  .   t2  t2  t2  t2  .   "
         ".   t1  t1  t1  t1  .   dp  dp  dp  dp  .   t2  t2  t2  t2  .   "
         ".   t1  t1  t1  t1  .   dp  dp  dp  dp  .   t2  t2  t2  t2  .   "
-        ".   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   "
+        "dbg dbg dbg dbg dbg dbg dbg dbg dbg dbg dbg dbg dbg dbg dbg dbg "
         ;
         /* Possible values:
          * j1, j2, j3... for joystick (returns to center when released);
