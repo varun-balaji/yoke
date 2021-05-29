@@ -7,15 +7,15 @@
     /* The map below must match the number of rows and columns specified above.
      * Controls may cover any rectangular area.
      * Do not try drawing non-rectangular shapes. */
-        ".   .   .   .   .   .   .   mb  mg  .   .   .   .   .   .   .   "
-        ".   .   .   .   dp  dp  dp  .   .   .   b4  .   .   .   .   .   "
-        "pb  pb  pb  .   dp  dp  dp  .   .   b3  .   b2  .   pa  pa  pa  "
-        "pb  pb  pb  .   dp  dp  dp  .   .   .   b1  .   .   pa  pa  pa  "
-        "pb  pb  pb  .   .   .   .   .   .   .   .   .   .   pa  pa  pa  "
-        "pb  pb  pb  b5  .   .   .   bg  bg  .   .   .   b6  pa  pa  pa  "
-        "pb  pb  pb  b5  .   .   .   .   .   .   .   .   b6  pa  pa  pa  "
-        "pb  pb  pb  b5  .   .   .   bs  bs  .   .   .   b6  pa  pa  pa  "
-        "dbg dbg dbg dbg dbg dbg dbg dbg dbg dbg dbg dbg dbg dbg dbg dbg "
+        ".   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   "
+        ".   b1  b1  .   b2  b2  .   b3  b3  .   b4  b4  .   b5  b5  .   "
+        ".   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   "
+        ".   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   "
+        ".   t1  t1  t1  t1  .   dp  dp  dp  dp  .   t2  t2  t2  t2  .   "
+        ".   t1  t1  t1  t1  .   dp  dp  dp  dp  .   t2  t2  t2  t2  .   "
+        ".   t1  t1  t1  t1  .   dp  dp  dp  dp  .   t2  t2  t2  t2  .   "
+        ".   t1  t1  t1  t1  .   dp  dp  dp  dp  .   t2  t2  t2  t2  .   "
+        ".   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   "
         ;
         /* Possible values:
          * j1, j2, j3... for joystick (returns to center when released);
